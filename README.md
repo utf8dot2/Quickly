@@ -15,4 +15,4 @@ Breakpoint-based Responsiveness: Modify the responsive behavior to change the im
 
 Usage:
 
-<img class="js-optimize-image" data-src="https://i.gifer.com/XlQO.gif" data-optimization-options='{"width": 800, "quality": 80}' alt="Image 1">
+"<img class="js-optimize-image" data-src="image.jpg" data-optimization-options='{"width": 800, "quality": 80}' alt="Image 1>"
